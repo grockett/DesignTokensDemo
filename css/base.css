@@ -1,0 +1,28 @@
+:root {
+    /* COLOR */
+    --text-color: rgb(0, 0, 0);
+}
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background: #FBF3EF;
+    color: var(--text-color);
+}
+header {
+    margin: 100px 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+}
+h1 {
+    margin-top: 0;
+}
+strong {
+    font-size: 5rem;
+}
+main {
+
+}
