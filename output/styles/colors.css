@@ -1,0 +1,21 @@
+:root {
+  /* COLOR */
+  --demo-green-100: rgb(201, 243, 228);
+  --demo-green-200: rgb(149, 239, 207);
+  --demo-green-300: rgb(96, 246, 192);
+  --demo-green-400: rgb(40, 212, 150);
+  --demo-green-50: rgb(230, 243, 239);
+  --demo-green-500: rgb(13, 173, 115);
+  --demo-green-600: rgb(8, 120, 80);
+  --demo-green-700: rgb(3, 86, 56);
+  --demo-green-800: rgb(3, 50, 33);
+  --demo-grey-100: rgb(224, 229, 227);
+  --demo-grey-200: rgb(195, 204, 201);
+  --demo-grey-300: rgb(159, 173, 169);
+  --demo-grey-400: rgb(117, 135, 128);
+  --demo-grey-50: rgb(235, 239, 238);
+  --demo-grey-500: rgb(75, 97, 88);
+  --demo-grey-600: rgb(39, 62, 53);
+  --demo-grey-700: rgb(14, 41, 31);
+  --demo-grey-800: rgb(1, 18, 12);
+}
