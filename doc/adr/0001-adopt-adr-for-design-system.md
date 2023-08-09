@@ -10,6 +10,9 @@ Creating and maintaining a Design System involves making many decisions and ofte
 ## Decision
 Adopt an ADR format for recording decisions relating to the architecture of the Design System.
 
+## Consequences
+Adopt an ADR format for recording decisions relating to the architecture of the Design System.
+
 + Onboarding of new Design System team members becomes easier when the decisions that led to it's structure are accessible.
 
 + Responding to organisational change becomes smoother, for example when team structures or project needs demand a change in ownership. New owners can quickly get up to speed with how and why the system evolved in the way it did.
